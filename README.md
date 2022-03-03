@@ -12,9 +12,9 @@ Personal fork of [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-
 #### Installing themes in GNOME
 
 - Clone the directory
-- Create $HOME/.local/share
+- Create `$HOME/.local/share`
 - For each subfolder you are interested in
-    - Create a subfolder under $HOME/.local/share with the same name
+    - Create a subfolder under `$HOME/.local/share` with the same name
     - Go to it and symlink all folders from this repos subfolder
 - With Gnome Tweaks you can change every detail, the shell, the icons, the theme...
     - To change the shell you might need to `sudo apt install gnome-shell-extensions`, then activate the extension under gnome-tweaks
